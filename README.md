@@ -1,4 +1,4 @@
-# 👋 こんにちは! I'm シシール
+# 👋 こんにちは!i! I'm シシール
 
 ![header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dkamU3YTAwdTdjOGZybWJoZXl4NmE3a2htZWdlczdmN3VkMGZjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif) 
 
