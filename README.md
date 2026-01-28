@@ -13,7 +13,7 @@
 
 ![header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dkamU3YTAwdTdjOGZybWJoZXl4NmE3a2htZWdlczdmN3VkMGZjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif) 
 
-💻 I'm a 15 y/o who codes stuff, breaks it, learns from it — and does it all over again.  
+💻 I'm Shishir who codes stuff, breaks it, learns from it — and does it all over again.  
 🍜 When I'm not coding, I'm watching anime or tweaking Linux configs just for fun.  
 🎯 Always learning. Always building. Always curious. 
 
